@@ -3,3 +3,4 @@
 
 > Test in Nonprod
 * stg defect fixes
+* reg defect fixes
