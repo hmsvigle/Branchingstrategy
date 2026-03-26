@@ -1,0 +1,2 @@
+* release/1.30.0 branch created from Main branch for nonprod promotion
+* develop branch will be created from release branch for feature development
